@@ -1,0 +1,41 @@
+body {
+    background-color: #202327;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(221, 221, 221);
+}
+
+header{
+    background-color: #21109c;
+    margin: 0;
+    padding: 1rem;
+}
+
+header h1{
+    display: flex;
+    justify-content: center; 
+}
+
+h2{
+    color: rgb(160, 114, 51);
+}
+
+ul{
+    list-style: none;
+    padding: 1rem;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+ul li {
+    color: rgb(18, 87, 156);
+}
+
+ul li a{
+    text-decoration: none; 
+    color: rgb(8, 71, 126);
+}
